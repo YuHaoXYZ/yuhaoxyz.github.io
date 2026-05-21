@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "YuHao"
+  name   : "YuHao 尉浩"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Inter Media Art & 3D Visual"
   links:

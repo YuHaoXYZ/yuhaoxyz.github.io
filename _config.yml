@@ -16,7 +16,7 @@
 title: YuHao
 email: zunyuyu@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Inter Media Art & 3D Visual
+  Intermedia Art & 3D Visual
 #twitter_username: username
 github_username: YuHaoXYZ
 minimal_mistakes_skin: neon
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "YuHao 尉浩"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Inter Media Art & 3D Visual"
+  bio    : "Intermedia Art & 3D Visual"
   links:
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"

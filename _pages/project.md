@@ -1,16 +1,13 @@
 ---
-title: "Commercial Projects"
-permalink: /projects/
-layout: archive
+title: Works
+permalink: /works/
+layout: single
 author_profile: true
-
-# 只显示 commercial 分类 + 时间倒序（最新在前）
-entries_layout: grid
-show_excerpts: true
-sort_by: date
-sort_order: reverse
-
-# 关键筛选：商业项目
-taxonomy: category
-category: commercial
 ---
+
+# Art Works 艺术作品
+
+{% for post in site.categories.project %}
+## [{{ post.title }}]({{ post.url }})
+{{ post.date | date: "%Y-%m-%d" }}
+{% endfor %}

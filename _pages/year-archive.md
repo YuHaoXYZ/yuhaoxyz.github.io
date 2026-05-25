@@ -1,6 +1,6 @@
 ---
 title: "Works by Year"
-permalink: /works/
+permalink: /time/
 layout: posts
 author_profile: true
 ---

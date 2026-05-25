@@ -19,6 +19,3 @@ classes: wide                  # 让网格更宽，多放几列
 header:
   image: false
 ---
-
-# Art Works
-# Personal 3D & digital art works.

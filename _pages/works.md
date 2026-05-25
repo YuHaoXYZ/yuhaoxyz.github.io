@@ -1,8 +1,14 @@
 ---
-title: "Art Works"
+title: Art Works
 permalink: /works/
-layout: archive
+layout: single
 author_profile: true
+---
+
+{% for post in site.categories.art %}
+## [{{ post.title }}]({{ post.url }})
+{{ post.date | date: "%Y-%m-%d" }}
+{% endfor %}
 
 # 网格布局 + 缩略图设置
 entries_layout: grid
